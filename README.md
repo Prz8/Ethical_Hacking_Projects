@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Prz8/Ethical_Hacking_Projects/raw/main/banner.png">
+</p>
+
 # Ethical_Hacking_Projects
-Some Ethical Hacking Projects that I've done with `Python`
+Some Ethical Hacking Projects that I've done with `Python` for Image Encrypter, Port Scanner, Botnet, Keylogger, Mac-Address Changer, Image Metadata Extractor & Zip-File Cracker.
 
 ## Author
 <a href="https://github.com/Prz8"> Prajit Panday </a>
